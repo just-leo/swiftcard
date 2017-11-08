@@ -1,0 +1,7 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/just-leo/swiftcard-client.git
+	branch = master
+[submodule "server"]
+	path = server
+	url = https://github.com/just-leo/swiftcard-server.git
